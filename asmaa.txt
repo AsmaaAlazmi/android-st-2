@@ -1,0 +1,3 @@
+int x = 12;
+char x = 'A';
+double y = 51.1;
